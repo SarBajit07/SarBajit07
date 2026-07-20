@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sarbajit 👋</h1>
-<h3 align="center">Full-Stack Developer | NodeS · Next.js </h3>
+<h3 align="center">Full-Stack Developer | Node.js · Next.js </h3>
 
 <p align="center">
   Based in Nepal 🇳🇵 — building scalable web products end-to-end, from database design to deployment.
