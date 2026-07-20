@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Sarbajit 👋</h1>
-<h3 align="center">Full-Stack Developer | NestJS · Next.js · Flutter</h3>
+<h3 align="center">Full-Stack Developer | NodeS · Next.js </h3>
 
 <p align="center">
-  Based in Nepal 🇳🇵 — building scalable web & mobile products end-to-end, from database design to deployment.
+  Based in Nepal 🇳🇵 — building scalable web products end-to-end, from database design to deployment.
 </p>
 
 ---
@@ -15,7 +15,7 @@
 - 🛒 Also working on a B2B e-commerce platform for exporting local products internationally
 - 🎓 BSc CSIT graduate from Tribhuvan University
 - 🌱 Exploring DevOps, AI agents, and system design
-- 🎬 When I'm not coding, I'm probably watching an animated film
+- 🎬 When I'm not coding, I'm probably watching movies and exploring new things.
 
 ---
 
