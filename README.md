@@ -7,17 +7,16 @@
 
 ---
  
-### 🚀 About Me
+## 🚀 About Me
 
 - 💻 Full-stack developer working across **backend, frontend, and QA**
-- 🏢 Currently working at **New Tech Consultancy Services**
-- 🏥 Working on QA for a cross-border healthcare platform connecting families abroad with nurses back home
-- 🛒 Also working on a B2B e-commerce platform for exporting local products internationally
+- 🔎 **Open to new opportunities**: full-stack / backend roles (Node.js, Next.js)
+- 🏢 Previously worked at **New Tech Consultancy Services**
+- 🏥 Worked on QA for a cross-border healthcare platform connecting families abroad with nurses back home
+- 🛒 Also worked on a B2B e-commerce platform for exporting local products internationally
 - 🎓 BSc CSIT graduate from Tribhuvan University
 - 🌱 Exploring DevOps, AI agents, and system design
 - 🎬 When I'm not coding, I'm probably watching movies and exploring new things.
-
----
 
 ### 🛠️ Tech Stack
 
